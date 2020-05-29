@@ -1,4 +1,5 @@
-# Operation-Research-2020
+# Operation-Research
+Operation Research 2020, School of Information, RUC
 
 ## EXP1
 实现单纯形法，用如下数据进行测试，给出测试结果。
